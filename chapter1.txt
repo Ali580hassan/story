@@ -1,0 +1,12 @@
+mkdir folder name 
+touch file name
+rm file name
+rm -r folder name 
+cd 
+cd ~
+
+//create git repositriy 
+git init
+ls -a for all hiden folder
+"git status" display the current state of your working directory\
+git addgit add file name for commit in dit 
