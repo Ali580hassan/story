@@ -8,5 +8,9 @@ cd ~
 //create git repositriy 
 git init
 ls -a for all hiden folder
-"git status" display the current state of your working directory\
-git addgit add file name for commit in dit 
+"git status" display the current state of your working directory
+
+//A commit in Git is like saving a checkpoint of your project
+
+git add file name for commit in git
+git commit -m "chapter 1 in compeleted" commit message
