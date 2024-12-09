@@ -5,12 +5,29 @@ rm -r folder name
 cd 
 cd ~
 
-//create git repositriy 
+//create local git repository 
 git init
 ls -a for all hiden folder
 "git status" display the current state of your working directory
 
 //A commit in Git is like saving a checkpoint of your project
 
-git add file name for commit in git
+git add (put i statging area) file name for commit in git
 git commit -m "chapter 1 in compeleted" commit message
+git diff filename show different
+git checkout file name for get privious file 
+
+//from local to remote repository
+
+git remote add origin url of git repository
+git branch to check the git branch
+git push -u origin main (main is branch name)  
+
+//clone 
+git clone url
+git log track a branch's commit history.
+
+brancing 
+git branch check the all branch
+git branch (B-name) create a branch
+git checkout (b-name) for switch  branch
